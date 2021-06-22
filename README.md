@@ -3,7 +3,7 @@
 <!--
 **aryantps/aryantps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##### I am a final year B.Tech student, an machine learning enthusiast from Lucknow, India 🇮🇳. | Seeking new opportunities
+#####  Seeking new opportunities.
 
 - 🌍   I'm currently doing internship at <a href="https://www.nagarro.com/en"><b>Nagarro</b></a> as technology trainee.
     <!-- - 🔭   I’m currently working on my <a href="https://github.com/aryantps/portfolio/">Portfolio site</a> and some other DL projects ...
