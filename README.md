@@ -25,7 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryant/)](https://www.linkedin.com/in/aryant/)
 [![Gmail Badge](https://img.shields.io/badge/-aryantpratapsingh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryantpratapsingh@gmail.com)](mailto:aryantpratapsingh@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-thakur_aryant_-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aryant.ps/)](https://www.instagram.com/aryant.ps/)
+[![Instagram Badge](https://img.shields.io/badge/aryant-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aryant.ps/)](https://www.instagram.com/aryant.ps/)
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
