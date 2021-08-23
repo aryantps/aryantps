@@ -3,7 +3,7 @@
 <!--
 **aryantps/aryantps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#####  Seeking new opportunities.
+
 
 - 🌍   I'm currently working at <a href="https://www.gobolt.in/"><b>GoBolt</b></a> as SDE-1 Backend.
     <!-- - 🔭   I’m currently working on my <a href="https://github.com/aryantps/portfolio/">Portfolio site</a> and some other DL projects ...
